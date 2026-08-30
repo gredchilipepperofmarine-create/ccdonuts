@@ -1,0 +1,7 @@
+# 送らないファイル
+../connectDbData.php
+# 自動生成いらないファイル
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
